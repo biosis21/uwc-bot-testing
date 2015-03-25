@@ -1,0 +1,15 @@
+{
+  "name": "gitter-bot",
+  "version": "0.1.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-gitter": "^1.2.8",
+    "yargs": "^3.6.0"
+  }
+}
