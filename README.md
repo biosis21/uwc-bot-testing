@@ -21,4 +21,3 @@ Gitter room for testing - **biosis21/uwc-bot-testing**.
 ### Contacts
 
 Nikolay Savenko biosis21@gmail.com
-
